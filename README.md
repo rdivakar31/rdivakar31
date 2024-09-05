@@ -5,7 +5,7 @@
     <a href="https://www.linkedin.com/in/riya-divakaran/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="100" height="30"/>
     </a>
-    <a href="mailto:your-email@gmail.com">
+    <a href="mailto:riyadivakaran03@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" alt="Gmail Badge" width="100" height="30"/>
     </a>
   </div>
