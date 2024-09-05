@@ -5,6 +5,9 @@
     <a href="https://www.linkedin.com/in/riya-divakaran/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <a href="">
+      <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
   </div>
 
   <img src="https://komarev.com/ghpvc/?username=rdivakar31&style=flat-square&color=blue" alt="Profile Views"/>
