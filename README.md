@@ -22,8 +22,14 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Web Developer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+-I am a Web Developer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- :telescope: I’m working as a Web Developer and contributing to frontend and backend for building an ecommerce website for harmfree products.
 
+- :seedling: I am a recent graduate with a Master's Degree in Software Engineering from Stevens Institute of Technology, USA.
+
+- :zap: In my free time, I love listening music while playing around in code playgroung.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/riya-divakaran/)
 
 
 <!--
