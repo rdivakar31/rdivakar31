@@ -23,7 +23,7 @@
 
 ### :woman_technologist: About Me
 
-- 🌟 **Web Developer** | Currently contributing to both frontend and backend development for an ecommerce website focused on harm-free products. ![Giphy](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif)
+- 🌟 **Web Developer** | Currently contributing to both frontend and backend development for an ecommerce website focused on harm-free products.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   
 - 🌱 **Recent Graduate** | Master's Degree in Software Engineering from Stevens Institute of Technology, USA.
 
