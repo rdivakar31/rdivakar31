@@ -19,11 +19,12 @@
 
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
 ---
 
 ### :woman_technologist: About Me
 
-- 🌟 **Web Developer** | Currently contributing to both frontend and backend development for an ecommerce website focused on harm-free products.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🌟 **Web Developer** | Currently contributing to both frontend and backend development for an e-commerce website focused on harm-free products.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
   
 - 🌱 **Recent Graduate** | Master's Degree in Software Engineering from Stevens Institute of Technology, USA.
 
@@ -31,7 +32,7 @@
 
 - 🎶 **Hobbies** | In my free time, I enjoy listening to music while experimenting in the coding playground.
 
-- 📧 **Contact Me** | [![LinkedIn Badge](https://img.shields.io/badge/-Riya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/riya-divakaran/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+- 📧 **Contact Me** | [![LinkedIn Badge](https://img.shields.io/badge/-Riya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/riya-divakaran/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:riyadivakaran03@gmail.com)
 
 ---
 
@@ -58,24 +59,12 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rdivakar31&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdivakar31&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-<!--
-**rdivakar31/rdivakar31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=rdivakar31&theme=dark&background=000000" alt="GitHub Streak" />
+  </a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdivakar31&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+  </a>
+</div>
