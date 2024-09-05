@@ -62,6 +62,75 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdivakar31&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+name: Latest blog post workflow
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "4"
+          feed_list: "https://dev.to/feed/rdivakar31"
+
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/riya-divakaran/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="mailto:riyadivakaran03@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+  </div>
+</div>
+
+---
+
+### :woman_technologist: About Me :
+
+- I am a Web Developer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- :telescope: I’m currently working as a Web Developer Intern at Green2Gold.
+- :seedling: I recently graduated with a Master's Degree in Software Engineering from Stevens Institute of Technology.
+- :zap: In my free time, I enjoy listening to music while experimenting in the coding playground.
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Riya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/riya-divakaran/)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/aws/aws-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <!-- Add more icons as needed -->
+</div>
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rdivakar31&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdivakar31&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 <!--
 **rdivakar31/rdivakar31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
