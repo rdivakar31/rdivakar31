@@ -21,15 +21,18 @@
 </div>
 ---
 
-### :woman_technologist: About Me :
--I am a Web Developer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :telescope: I’m working as a Web Developer and contributing to frontend and backend for building an ecommerce website for harmfree products.
+### :woman_technologist: About Me
 
-- :seedling: I am a recent graduate with a Master's Degree in Software Engineering from Stevens Institute of Technology, USA.
+- 🌟 **Web Developer** | Currently contributing to both frontend and backend development for an ecommerce website focused on harm-free products. ![Giphy](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif)
+  
+- 🌱 **Recent Graduate** | Master's Degree in Software Engineering from Stevens Institute of Technology, USA.
 
-- :zap: In my free time, I love listening music while playing around in code playgroung.
+- 🚀 **Technical Skills** | Proficient in Angular, React.js, and a range of technologies including HTML, CSS, JavaScript, Azure, CI/CD tools, and more. I excel in building high-performance web applications and adapting to new technologies quickly.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Riya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/riya-divakaran/)
+- 🎶 **Hobbies** | In my free time, I enjoy listening to music while experimenting in the coding playground.
+
+- 📧 **Contact Me** | [![LinkedIn Badge](https://img.shields.io/badge/-Riya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/riya-divakaran/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
 
 
 <!--
