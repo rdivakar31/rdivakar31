@@ -130,6 +130,24 @@ jobs:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+name: Latest blog post workflow
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "4"
+          feed_list: "https://dev.to/feed/rdivakar31"
+
 
 <!--
 **rdivakar31/rdivakar31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
