@@ -55,7 +55,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>
 </div>
 
+---
 
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=your-rdivakar31
 <!--
 **rdivakar31/rdivakar31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
