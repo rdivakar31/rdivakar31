@@ -16,23 +16,36 @@
     Hey there!!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
----
-
-### :woman_technologist: About Me
-
-- 🌟 **Web Developer** | Currently contributing to both frontend and backend development for an e-commerce website focused on harm-free products.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
   
-- 🌱 **Recent Graduate** | Master's Degree in Software Engineering from Stevens Institute of Technology, USA.
-
-- 🚀 **Technical Skills** | Proficient in Angular, React.js, and a range of technologies including HTML, CSS, JavaScript, Azure, CI/CD tools, and more. I excel in building high-performance web applications and adapting to new technologies quickly.
-
-- 🎶 **Hobbies** | In my free time, I enjoy listening to music while experimenting in the coding playground.
-
-- 📧 **Contact Me** | [![LinkedIn Badge](https://img.shields.io/badge/-Riya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/riya-divakaran/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:riyadivakaran03@gmail.com)
+</div>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <div align="left">
+          <h2>:woman_technologist: About Me</h2>
+          <ul>
+            <li>🌟 <strong>Web Developer</strong> | Currently contributing to both frontend and backend development for an e-commerce website focused on harm-free products.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"></li>
+            <li>🌱 <strong>Recent Graduate</strong> | Master's Degree in Software Engineering from Stevens Institute of Technology, USA.</li>
+            <li>🚀 <strong>Technical Skills</strong> | Proficient in Angular, React.js, and a range of technologies including HTML, CSS, JavaScript, Azure, CI/CD tools, and more. I excel in building high-performance web applications and adapting to new technologies quickly.</li>
+            <li>🎶 <strong>Hobbies</strong> | In my free time, I enjoy listening to music while experimenting in the coding playground.</li>
+            <li>📧 <strong>Contact Me</strong> | 
+              <a href="https://www.linkedin.com/in/riya-divakaran/">
+                <img src="https://img.shields.io/badge/-Riya-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
+              </a>
+              <a href="mailto:riyadivakaran03@gmail.com">
+                <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" alt="Gmail Badge"/>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </td>
+      <td>
+        <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
