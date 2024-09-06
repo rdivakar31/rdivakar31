@@ -74,7 +74,7 @@
 ### :fire: My Stats :
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="[![GitHub Streak](https://streak-stats.demolab.com/?user=rdivakar31)](https://git.io/streak-stats) />
+   https://github-readme-streak-stats.herokuapp.com/?user=your-rdivakar31
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
