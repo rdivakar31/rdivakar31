@@ -30,9 +30,6 @@
             <li>🚀 <strong>Technical Skills</strong> | Proficient in Angular, React.js, and a range of technologies including HTML, CSS, JavaScript, Azure, CI/CD tools, and more. I excel in building high-performance web applications and adapting to new technologies quickly.</li>
             <li>🎶 <strong>Hobbies</strong> | In my free time, I enjoy listening to music while experimenting in the coding playground.</li>
             <li>📧 <strong>Contact Me</strong> | 
-              <a href="https://www.linkedin.com/in/riya-divakaran/">
-                <img src="https://img.shields.io/badge/-Riya-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
-              </a>
               <a href="mailto:riyadivakaran03@gmail.com">
                 <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" alt="Gmail Badge"/>
               </a>
