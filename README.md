@@ -26,7 +26,7 @@
           <h2>:woman_technologist: About Me</h2>
           <ul>
             <li>🌟 <strong>Web Developer</strong> | Currently contributing to both frontend and backend development for an e-commerce website focused on harm-free products.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"></li>
-            <li>🌱 <strong>Recent Graduate</strong> | Master's Degree in Software Engineering from Stevens Institute of Technology, USA.</li>
+            <li>🌱 <strong> Graduate</strong> | Master's Degree in Software Engineering from Stevens Institute of Technology, USA.</li>
             <li>🚀 <strong>Technical Skills</strong> | Proficient in Angular, React.js, and a range of technologies including HTML, CSS, JavaScript, Azure, CI/CD tools, and more. I excel in building high-performance web applications and adapting to new technologies quickly.</li>
             <li>🎶 <strong>Hobbies</strong> | In my free time, I enjoy listening to music while experimenting in the coding playground.</li>
             <li>📧 <strong>Contact Me</strong> | 
